@@ -2,7 +2,7 @@ local player = game:GetService("Players").LocalPlayer
 local timer = player.PlayerGui.ScreenGui.Timer
 local winFolder = game:GetService("Workspace").Winparts
 local character = player.Character
-local currLevel = 2.2
+local currLevel = 2.1
 
 function winTP(level)
     print("Attempting to teleport to level " .. currLevel)
