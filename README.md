@@ -4,8 +4,3 @@ A script for the ROBLOX Game [Teamwork Puzzle](https://www.roblox.com/games/6075
 
 
 
-
-## Authors
-
-- [@pumpkinss](https://www.github.com/pumpkinss)
-
